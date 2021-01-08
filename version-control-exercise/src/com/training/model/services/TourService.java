@@ -21,5 +21,10 @@ public class TourService {
 		return 11;
 		
 	}
+	
+	public void deleteTour(Tour tour) {
+		System.out.println("BugFix");
+		
+	}
 
 }
