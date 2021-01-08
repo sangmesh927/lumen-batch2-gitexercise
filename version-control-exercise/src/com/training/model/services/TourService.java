@@ -15,8 +15,16 @@ public class TourService {
 		
 	}
 	
+
+	public int updateTour(Tour tour) {
+		
+		
+		return 11;
+		
+	}
+	
 	public void deleteTour(Tour tour) {
-		System.out.println("master");
+		System.out.println("BugFix");
 		
 	}
 
