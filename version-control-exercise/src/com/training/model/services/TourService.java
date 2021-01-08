@@ -15,10 +15,8 @@ public class TourService {
 		
 	}
 	
-	public int updateTour(Tour tour) {
-		int status=0;
-		
-		return status;
+	public void deleteTour(Tour tour) {
+		System.out.println("master");
 		
 	}
 
